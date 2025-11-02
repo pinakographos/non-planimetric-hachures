@@ -39,3 +39,6 @@ First off, **be patient**. This script can take a while to run, depending on the
 Getting good results takes iteration. Try different settings, and try smoothing your DEM in different ways, and seeing how every adjustment affects the results. A manual hachure artist has a lot of decisions to make about where and how to draw lines. This script will do the drawing for you, but you still need to make the decisions about what parameters look best.
 
 While I am happy to try and help troubleshoot, I do ask that you invest the time to first read through the [draft article](https://docs.google.com/document/d/1GFSgxLI5F2UOevCXBG22GBKVbpuKddTl7MoBTrPHB3s/edit?usp=sharing) to ensure that you understand the methdology, before filing a bug report or asking questions. In truth, I am rather a novice programmer, so my ability to aid you is limited.
+
+# Still Stuck?
+If you're interested in achieving this hachure style, but don't want to wade through the documentation, code, etc: you can also [hire me](mailto:somethingaboutmaps@gmail.com) to make a terrain image for you to use in your projects!
