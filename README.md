@@ -5,7 +5,7 @@ A QGIS & Blender-based method to generate automated hachure drawings of terrain.
 
 
 # Preamble
-This method is a compantion to, and based off of, my planimetric [hachure method](https://github.com/pinakographos/Hachures).
+This method is a companion to, and based off of, my planimetric [hachure method](https://github.com/pinakographos/Hachures).
 This is version 1.0, which means that there are likely to be bugs; be warned. The two raster images in this repo (Uphill.png and Shading.png) are test images that have previously been known to work properly with the script (in QGIS 3.40.5-Bratislava), and should serve as a confirmation that you are using it correctly.
 
 Before moving on, I want to offer my thanks to [Andrew Tyrrell](https://southarrowmaps.co.nz/), who made significant intellectual contributions to the method that is presented here, and helped with testing.
